@@ -3,8 +3,20 @@
   "version": "1.0.0",
   "description": "Instagram and Threads, YouTube packaging, talking-head reel editing, fact-checked explainer reels, documentary-style edits, watching videos and pulling timestamped transcript moments.",
   "author": {
-    "name": "Tripathi Aditya Prakash",
-    "url": "https://github.com/tripathiadityap"
+    "name": "Tripathi Aditya Prakash (Adi)",
+    "url": "https://x.com/tripathiadityap"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/tripathiadityap/claude-skills",
+  "repository": "https://github.com/tripathiadityap/claude-skills",
+  "keywords": [
+    "claude-skills",
+    "creator",
+    "content",
+    "linkedin",
+    "instagram",
+    "youtube",
+    "podcast",
+    "notion"
+  ]
 }

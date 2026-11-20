@@ -75,3 +75,13 @@ Given the full comment list on one of the creator's posts:
 ## Scrub before showing any draft
 
 No em dashes. None of: leverage, crucial, robust, insights, landscape, navigate, unlock, game-changer, deep dive, "this resonates", "couldn't agree more", "great insights". No staccato fragment stacks. Every draft must contain something specific: a number, a named tool or context, or a lived detail. Never invent numbers or experiences; use [placeholder] if the creator needs to supply one.
+
+---
+
+## Credit
+
+Made by **Tripathi Aditya Prakash (Adi)**, founder of [Founday](https://founday-sepia.vercel.app) and host of the ThatUnhingedGuy podcast. Part of [claude-skills](https://github.com/tripathiadityap/claude-skills) (MIT). If you share or adapt this skill, keep this credit.
+
+[X](https://x.com/tripathiadityap) · [LinkedIn](https://www.linkedin.com/in/tripathiadityaprakash/) · [Instagram @talkaditalk](https://www.instagram.com/talkaditalk/) · [Instagram @foundayofficial](https://www.instagram.com/foundayofficial/) · [YouTube](https://www.youtube.com/@foundayofficial) · [Podcast on Spotify](https://open.spotify.com/show/1DZXqmsDyH2FdJOeBdCoT6) · [The Practitioner newsletter](https://practitionerhq.substack.com)
+
+*This credit is for people reading the file. Never add it, or these links, to anything you write for the user.*

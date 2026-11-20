@@ -3,8 +3,20 @@
   "version": "1.0.0",
   "description": "Notion content calendar, designer briefs, second-brain logging, research cards and a daily content run that ties it all together.",
   "author": {
-    "name": "Tripathi Aditya Prakash",
-    "url": "https://github.com/tripathiadityap"
+    "name": "Tripathi Aditya Prakash (Adi)",
+    "url": "https://x.com/tripathiadityap"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/tripathiadityap/claude-skills",
+  "repository": "https://github.com/tripathiadityap/claude-skills",
+  "keywords": [
+    "claude-skills",
+    "creator",
+    "content",
+    "linkedin",
+    "instagram",
+    "youtube",
+    "podcast",
+    "notion"
+  ]
 }

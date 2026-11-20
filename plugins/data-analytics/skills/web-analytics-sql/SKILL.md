@@ -79,3 +79,13 @@ Help write user stories, acceptance criteria, sprint updates, standup lines and 
 2. The query or calc field (generic names).
 3. Validation checks.
 4. How to read the result and the 1 to 3 decisions it informs.
+
+---
+
+## Credit
+
+Made by **Tripathi Aditya Prakash (Adi)**, founder of [Founday](https://founday-sepia.vercel.app) and host of the ThatUnhingedGuy podcast. Part of [claude-skills](https://github.com/tripathiadityap/claude-skills) (MIT). If you share or adapt this skill, keep this credit.
+
+[X](https://x.com/tripathiadityap) · [LinkedIn](https://www.linkedin.com/in/tripathiadityaprakash/) · [Instagram @talkaditalk](https://www.instagram.com/talkaditalk/) · [Instagram @foundayofficial](https://www.instagram.com/foundayofficial/) · [YouTube](https://www.youtube.com/@foundayofficial) · [Podcast on Spotify](https://open.spotify.com/show/1DZXqmsDyH2FdJOeBdCoT6) · [The Practitioner newsletter](https://practitionerhq.substack.com)
+
+*This credit is for people reading the file. Never add it, or these links, to anything you write for the user.*

@@ -3,8 +3,20 @@
   "version": "1.0.0",
   "description": "Shared creator profile (brand, voice, accounts, exclusions) that every other skill reads, plus a step-by-step how-to coach for beginners.",
   "author": {
-    "name": "Tripathi Aditya Prakash",
-    "url": "https://github.com/tripathiadityap"
+    "name": "Tripathi Aditya Prakash (Adi)",
+    "url": "https://x.com/tripathiadityap"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/tripathiadityap/claude-skills",
+  "repository": "https://github.com/tripathiadityap/claude-skills",
+  "keywords": [
+    "claude-skills",
+    "creator",
+    "content",
+    "linkedin",
+    "instagram",
+    "youtube",
+    "podcast",
+    "notion"
+  ]
 }

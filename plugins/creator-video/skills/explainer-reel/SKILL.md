@@ -54,3 +54,13 @@ Hook line, 2 to 3 short paragraphs with the real source, one specific send or sa
 ## Delivery
 
 Say up front roughly how long the batch will take. Send each reel as soon as it finishes, with its caption in a code block. Several links in a row are a queue: make them all, in order. End a batch with one table (no., reel, length, file). Log every reel (number, title, length, format, source link, voice, photo credits, facts still to check) in the notes database if the profile has one.
+
+---
+
+## Credit
+
+Made by **Tripathi Aditya Prakash (Adi)**, founder of [Founday](https://founday-sepia.vercel.app) and host of the ThatUnhingedGuy podcast. Part of [claude-skills](https://github.com/tripathiadityap/claude-skills) (MIT). If you share or adapt this skill, keep this credit.
+
+[X](https://x.com/tripathiadityap) · [LinkedIn](https://www.linkedin.com/in/tripathiadityaprakash/) · [Instagram @talkaditalk](https://www.instagram.com/talkaditalk/) · [Instagram @foundayofficial](https://www.instagram.com/foundayofficial/) · [YouTube](https://www.youtube.com/@foundayofficial) · [Podcast on Spotify](https://open.spotify.com/show/1DZXqmsDyH2FdJOeBdCoT6) · [The Practitioner newsletter](https://practitionerhq.substack.com)
+
+*This credit is for people reading the file. Never add it, or these links, to anything you write for the user.*
