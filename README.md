@@ -168,7 +168,7 @@ Yes. The profile has a team table (designer, sales), and the account routing sep
 
 ## Made by Adi
 
-I'm **Tripathi Aditya Prakash (Adi)**: a data scientist and the founder of [Founday](https://founday-sepia.vercel.app). I host the ThatUnhingedGuy podcast, write The Practitioner, and post a reel every day on @talkaditalk. I use these skills to run all of it.
+I'm **Tripathi Aditya Prakash (Adi)**, founder of [Founday](https://founday-sepia.vercel.app). I host the ThatUnhingedGuy podcast, write The Practitioner, and post a reel every day on @talkaditalk. I use these skills to run all of it.
 
 [![X](https://img.shields.io/badge/X-@tripathiadityap-0a0706?style=for-the-badge&logo=x&logoColor=FACC15)](https://x.com/tripathiadityap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Prakash-0a0706?style=for-the-badge&logo=linkedin&logoColor=FACC15)](https://www.linkedin.com/in/tripathiadityaprakash/)
