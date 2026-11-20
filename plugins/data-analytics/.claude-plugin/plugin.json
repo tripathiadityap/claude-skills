@@ -1,0 +1,10 @@
+{
+  "name": "data-analytics",
+  "version": "1.0.0",
+  "description": "Funnel, journey, identity-resolution and sessionization patterns in SQL and Tableau, with strict confidentiality rules.",
+  "author": {
+    "name": "Tripathi Aditya Prakash",
+    "url": "https://github.com/tripathiadityap"
+  },
+  "license": "MIT"
+}

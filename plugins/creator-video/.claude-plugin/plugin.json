@@ -1,0 +1,10 @@
+{
+  "name": "creator-video",
+  "version": "1.0.0",
+  "description": "Instagram and Threads, YouTube packaging, talking-head reel editing, fact-checked explainer reels, documentary-style edits, watching videos and pulling timestamped transcript moments.",
+  "author": {
+    "name": "Tripathi Aditya Prakash",
+    "url": "https://github.com/tripathiadityap"
+  },
+  "license": "MIT"
+}

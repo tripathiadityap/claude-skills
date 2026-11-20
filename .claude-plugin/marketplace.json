@@ -1,0 +1,49 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Tripathi Aditya Prakash",
+    "url": "https://github.com/tripathiadityap"
+  },
+  "metadata": {
+    "description": "Reusable Claude skills for creators, podcasters and operators: writing, video, podcast, Notion ops and analytics.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "creator-core",
+      "source": "./plugins/creator-core",
+      "description": "Shared creator profile (brand, voice, accounts, exclusions) that every other skill reads, plus a step-by-step how-to coach for beginners.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "creator-writing",
+      "source": "./plugins/creator-writing",
+      "description": "Newsletter essays, Medium adaptations, LinkedIn and X posts, LinkedIn engagement and profile audits, outreach and consulting sales.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "creator-video",
+      "source": "./plugins/creator-video",
+      "description": "Instagram and Threads, YouTube packaging, talking-head reel editing, fact-checked explainer reels, documentary-style edits, watching videos and pulling timestamped transcript moments.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "creator-podcast",
+      "source": "./plugins/creator-podcast",
+      "description": "Podcast guest prep and one-episode-to-everything release packages.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "creator-notion-ops",
+      "source": "./plugins/creator-notion-ops",
+      "description": "Notion content calendar, designer briefs, second-brain logging, research cards and a daily content run that ties it all together.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "data-analytics",
+      "source": "./plugins/data-analytics",
+      "description": "Funnel, journey, identity-resolution and sessionization patterns in SQL and Tableau, with strict confidentiality rules.",
+      "version": "1.0.0"
+    }
+  ]
+}

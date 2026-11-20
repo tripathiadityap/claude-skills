@@ -1,0 +1,10 @@
+{
+  "name": "creator-podcast",
+  "version": "1.0.0",
+  "description": "Podcast guest prep and one-episode-to-everything release packages.",
+  "author": {
+    "name": "Tripathi Aditya Prakash",
+    "url": "https://github.com/tripathiadityap"
+  },
+  "license": "MIT"
+}

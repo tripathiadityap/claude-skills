@@ -1,0 +1,10 @@
+{
+  "name": "creator-notion-ops",
+  "version": "1.0.0",
+  "description": "Notion content calendar, designer briefs, second-brain logging, research cards and a daily content run that ties it all together.",
+  "author": {
+    "name": "Tripathi Aditya Prakash",
+    "url": "https://github.com/tripathiadityap"
+  },
+  "license": "MIT"
+}

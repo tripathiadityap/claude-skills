@@ -1,0 +1,10 @@
+{
+  "name": "creator-core",
+  "version": "1.0.0",
+  "description": "Shared creator profile (brand, voice, accounts, exclusions) that every other skill reads, plus a step-by-step how-to coach for beginners.",
+  "author": {
+    "name": "Tripathi Aditya Prakash",
+    "url": "https://github.com/tripathiadityap"
+  },
+  "license": "MIT"
+}
